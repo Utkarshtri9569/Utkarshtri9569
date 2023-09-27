@@ -12,5 +12,4 @@
 - I am passionate about building fully functional web, applications.
 I am skilled in HTML, CSS, Javascript, ReactJS. I am good in data structure & algorithms.
 -
--
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
