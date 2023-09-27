@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Utkarsh_Tripathi.
-- 💯 A passionate Full-stack Web developer.
-- 👀 I’m interested in Learning.
-- 🌱 I’m currently learning Computer science Engineering.
-- 💞️ I’m looking to collaborate on Web developing.
-- 📫 How to reach me utkarshtri2003@gmail.com
-- 🌹 Fun fact I am funny
-- 
-- From Lucknow Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused full stack developer👨‍💻.
-I am passionate about building fully functional web, applications.
-I am skilled in HTML, CSS, Javascript, ReactJS. I am good in data structure & algorithms.
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+- 👋 👋 Hi there! I'm Utkarsh Tripathi, a budding Frontend Web Developer with a passion for coding and creating web wonders.
+
+🌱 Currently, I'm on an exciting journey to explore the world of Computer Science Engineering, constantly learning and growing.
+
+🚀 I'm eager to collaborate on web development projects and contribute to the web community's progress.
+
+💬 You can reach out to me at utkarshtri2003@gmail.com. Let's connect and code together!
+
+😄 Fun fact: I love adding humor to my code, and I'm known to be quite the funny developer.
+
+🌏 Hailing from Lucknow, Uttar Pradesh, India, I'm enthusiastic about technology, and I'm proficient in HTML, CSS, JavaScript, and I'm delving into the world of ReactJS. I'm also working on sharpening my skills in data structures and algorithms.
+
+🌟 Join me in my coding adventures, and let's embrace the open-source spirit of collaboration and knowledge-sharing!
