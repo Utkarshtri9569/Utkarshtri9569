@@ -1,4 +1,4 @@
-- 👋 👋 Hi there! I'm Utkarsh Tripathi, a budding Frontend Web Developer with a passion for coding and creating web wonders.
+👋 Hi there! I'm Utkarsh Tripathi, a budding Frontend Web Developer with a passion for coding and creating web wonders.
 
 🌱 Currently, I'm on an exciting journey to explore the world of Computer Science Engineering, constantly learning and growing.
 
